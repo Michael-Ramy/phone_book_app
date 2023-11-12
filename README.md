@@ -56,4 +56,3 @@ The `ContactsHandler` class in `contacts_handler.dart` manages the list of conta
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
